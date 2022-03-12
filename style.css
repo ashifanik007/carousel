@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    height: 100px;
+    margin: auto;
+}
+.carousel {
+    height: 600px;
+}
+.carousel img {
+    width: 80%;
+    height: 500px;
+}
